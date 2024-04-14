@@ -19,6 +19,5 @@ describe('debounce function', () => {
     // Verifica que la función haya sido llamada después del retraso
     expect(mockFunction).toHaveBeenCalled();
   });
-
-  // Puedes agregar más pruebas aquí según sea necesario
+  
 });
