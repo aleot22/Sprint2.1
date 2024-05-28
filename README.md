@@ -10,7 +10,7 @@ Para empezar, necesitas tener Node.js y npm instalados. Luego, clona este reposi
 
 bash
 Copiar código
-git clone https://github.com/tu-usuario/funcion-debounce.git
+git clone [https://github.com/tu-usuario/funcion-debounce.git](https://github.com/aleot22/Sprint2.1/)
 cd funcion-debounce
 npm install
 Uso
